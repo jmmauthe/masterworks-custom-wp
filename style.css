@@ -1,0 +1,11 @@
+/*
+Theme Name: My Custom Theme
+Author: Marty
+Description: Hand-coded theme, no block editor layout dependency.
+Version: 1.0
+*/
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
