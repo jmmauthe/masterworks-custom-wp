@@ -9,3 +9,9 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+
+.landing-hero {
+  background: #f0f0f0;
+  padding: 40px;
+  border: 2px dashed #999;
+}
